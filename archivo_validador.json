@@ -1,0 +1,10 @@
+[
+    {
+      "nombre": "Los angeles",
+      "activo": true
+    },
+    {
+      "nombre": "Los Andes",
+      "activo": true
+    }
+]
