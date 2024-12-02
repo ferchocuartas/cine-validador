@@ -1,10 +1,12 @@
 [
     {
       "nombre": "CINEMA LOS ANGELES",
-      "activo": true
+      "descricion":"cine fusa",
+      "activo": false
     },
     {
-      "nombre": "Los Andes",
+      "nombre": "CINEMA LOS ANDES",
+      "descricion":"cine garzon",
       "activo": true
     }
 ]
