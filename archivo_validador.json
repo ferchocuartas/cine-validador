@@ -2,7 +2,7 @@
     {
       "nombre": "CINEMA LOS ANGELES",
       "descricion":"cine fusa",
-      "activo": false
+      "activo": true
     },
     {
       "nombre": "CINEMA LOS ANDES",
